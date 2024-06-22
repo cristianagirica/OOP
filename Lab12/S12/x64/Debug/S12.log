@@ -1,0 +1,7 @@
+﻿  S12.cpp
+C:\Users\Andra\source\repos\S12\S12\S12.cpp(65,41): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\Andra\source\repos\S12\S12\S12.cpp(65,41): warning C4305:         with
+C:\Users\Andra\source\repos\S12\S12\S12.cpp(65,41): warning C4305:         [
+C:\Users\Andra\source\repos\S12\S12\S12.cpp(65,41): warning C4305:             T=float
+C:\Users\Andra\source\repos\S12\S12\S12.cpp(65,41): warning C4305:         ]
+  S12.vcxproj -> C:\Users\Andra\source\repos\S12\x64\Debug\S12.exe
