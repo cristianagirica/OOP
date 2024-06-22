@@ -1,0 +1,15 @@
+﻿'Lab06.exe' (Win32): Loaded 'C:\Users\Andra\source\repos\Lab06\x64\Debug\Lab06.exe'. Symbols loaded.
+'Lab06.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'Lab06.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'Lab06.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'Lab06.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'Lab06.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'Lab06.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'Lab06.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 7640 has exited with code 0 (0x0).
+'Lab06.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'Lab06.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'Lab06.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 10784 has exited with code 0 (0x0).
+The thread 31296 has exited with code 0 (0x0).
+The program '[26884] Lab06.exe' has exited with code 0 (0x0).
